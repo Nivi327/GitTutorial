@@ -1,6 +1,1 @@
-This is first git trying.
-second line
-Third line
-Fourth Line
-This vis Nivas
-Checking git diff
+text_first
