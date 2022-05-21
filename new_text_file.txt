@@ -1,1 +1,2 @@
 new_text_added
+This file is going to be added
